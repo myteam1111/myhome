@@ -1,4 +1,4 @@
 myhome
 ======
 
-There is my code , if you find some error ,please tell me !
+There is my code , if you find any error ,please tell me !
